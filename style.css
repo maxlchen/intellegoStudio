@@ -17,12 +17,12 @@
 }
 .navbar .navbar-text a {
   color: #5aa0cb;
-  
+
 
 }
 .navbar .navbar-text a:hover,
 .navbar .navbar-text a:focus {
-  color: #5aa0cb; 
+  color: #5aa0cb;
 }
 .navbar .navbar-nav .nav-link {
   color: #fffdfd;
@@ -165,14 +165,13 @@ body{
 
 
 #sections{
-	background-color: #fffdfd;
+    background-color: #fffdfd;
     font-family: Helvetica;
     font-size: 20px;
     margin-top: 50px;
     border-bottom: 0.5px black dotted;
     margin: 0px 120px 20px 120px ;
 }
-
 footer{
     background-color: #fffdfd;
     font-family:Helvetica;
